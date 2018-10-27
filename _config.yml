@@ -3,7 +3,7 @@ name: Pankaj M. Dahilkar
 email: pankajmdahilkar@gmail.com
 #canonical_url: https://edwinexemplar.com
 keywords: "Electronics Engineer, Python, C,Embedded System, Machine Learning, 8 bit 32 bit Microcontrollers"
-skills: "Project Developer L-Tech Labs"
+skills: "Project Developer Embedded System Enginner L-Tech Labs "
 baseurl:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -11,7 +11,7 @@ baseurl:
 social:
   - title: linkedin
     url: https://in.linkedin.com/in/pankaj-dahilkar-7b300859
-  - title: Facebook
+  - title: facebook
     url: https://facebook.com/pankajdahilkar
   - title: twitter
     url: https://twitter.com/D_Pankaj4u
